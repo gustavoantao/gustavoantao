@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Who am I?
+
+I'm a brazilian guy, living with my lovely wife and my beautiful daughers. I'm also an I.T. professional working as Linux Sysadmin since 1999. Recently I'm dedicating myself to learn everything I can about Devops and SRE.
+Even not being a developer, I love to code always I can, and I do it using mostly PHP, Perl or Bash.
+
+Well... this is the first draft, with time I'll write some other things here.
+Bye!
