@@ -23,6 +23,6 @@ Even not being a developer, I love to code always I can, and I do it using mostl
 Well... this is the first draft, with time I'll write some other things here.
 Bye!
 
-[![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavoantao&show_icons=true)](https://github.com/gustavo-antao)
+[![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavoantao&show_icons=true)](https://github.com/gustavoantao)
 
-<a href="https://www.linkedin.com/in/gustavoantao/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gustavo%20Ant%C3%A3o-blue?style=flat-%20%20%20%20square&logo=linkedin"><br></a>
+<a href="https://www.linkedin.com/in/gustavo-antao/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gustavo%20Ant%C3%A3o-blue?style=flat-%20%20%20%20square&logo=linkedin"><br></a>
